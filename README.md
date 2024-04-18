@@ -1,6 +1,6 @@
 
-<H3>ENTER YOUR NAME: SHRIRAM S</H3>
-<H3>ENTER YOUR REGISTER NO. 212222240098</H3>
+<H3>ENTER YOUR NAME: DINESH KUMAR R</H3>
+<H3>ENTER YOUR REGISTER NO. 212222110010</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE: 18.04.2024</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
@@ -191,9 +191,9 @@ print(classification_report(testing_b,predicted_values))
 
 <H3>Output:</H3>
 
-![image](https://github.com/ShriramGH/Ex-4-NN/assets/117991122/7dd72add-a306-44c2-9e29-6c1837f6b184)
+![image](https://github.com/DINESH18032004/Ex-4-NN/assets/119477784/22d12d13-c141-4177-b15d-78f20904343b)
 
-![image](https://github.com/ShriramGH/Ex-4-NN/assets/117991122/0ca67d80-bb87-4fad-bd9e-ea8756467c9a)
+![image](https://github.com/DINESH18032004/Ex-4-NN/assets/119477784/0eb0cc30-0234-46c7-b2ee-d5aec73e44fa)
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
